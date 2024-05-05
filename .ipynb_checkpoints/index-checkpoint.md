@@ -16,9 +16,7 @@ I am a student at Lehigh University, studying Financial Engineering and Inustria
 
 _**[Extracting Firm 10k Files and Analyzing S&P500 Data](Report)**_
 
-You can show off your midterm analysis by moving the report components and output into this file. Or...
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/MidtermSnip.jpg?raw=true"/>
 
 ---
 
