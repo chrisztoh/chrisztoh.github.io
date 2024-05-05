@@ -1,8 +1,6 @@
 ## About Me
 
-What's up? hey\|you
-
-I am an awesome student at Lehigh, you should hire me!
+I am a student at Lehigh University, studying Financial Engineering and Inustrial & Systems Engineering. 
 
 <!-- Upload your own photo and change the path -->
 
