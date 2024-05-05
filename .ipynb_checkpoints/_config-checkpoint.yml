@@ -1,9 +1,6 @@
 title: Christopher Toh
 logo: "/images/Headshot.png?raw=true" 
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Edit these links below   
-  <br>
-  in _config.yml 
   <br><br>
   <a href="https://www.linkedin.com/in/christopher-toh/">LinkedIn</a> 
   <br>
@@ -11,10 +8,6 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br>
   <a href="https://bowen.finance/" class="btn btn--info">Portfolio</a>  
   <br>
-  <a href="https://www.GitHub.com/donbowen/">GitHub</a>  
-  <br>
-  <a href="https://www.GitHub.com/donbowen/">Twitter</a>  
-  <br>
-  <a href="https://www.GitHub.com/donbowen/">Youtube</a> 
+  <a href="https://www.GitHub.com/chrisztoh/">GitHub</a>  
   
 theme: jekyll-theme-minimal
