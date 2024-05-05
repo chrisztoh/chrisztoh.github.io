@@ -5,7 +5,7 @@ I am a student at Lehigh University, studying Financial Engineering and Inustria
 <!-- Upload your own photo and change the path -->
 
 <p style="text-align:center;">
-  <img class="img-circle" src="https://github.com/donbowen/donbowen.github.io/raw/master/images/logo.png" width="50%">
+  <img class="img-circle" src="https://github.com/chrisztoh/chrisztoh.github.io/blob/master/images/Headshot.png" width="50%">
 </p>
 
 ---
