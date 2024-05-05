@@ -16,7 +16,7 @@ I am a student at Lehigh University, studying Financial Engineering and Inustria
 
 _**[Extracting Firm 10k Files and Analyzing S&P500 Data](Report)**_
 
-<img src="images/MidtermSnip.jpg?raw=true"/>
+<img src="images/MidtermSnip.png?raw=true"/>
 
 ---
 
