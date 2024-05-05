@@ -1,5 +1,6 @@
-# 
-
+---
+layout: wide_default
+---  
 # Assignment 5 Midterm Project Report
 
 # Data

@@ -6,8 +6,6 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br>
   <a href="https://drive.google.com/file/d/14CY4E7bWpMMmWoEXTm1m9dAKS1MbuThH/view?usp=sharing" class="btn btn--info">Resume</a>  
   <br>
-  <a href="https://bowen.finance/" class="btn btn--info">Portfolio</a>  
-  <br>
   <a href="https://www.GitHub.com/chrisztoh/">GitHub</a>  
   
 theme: jekyll-theme-minimal
