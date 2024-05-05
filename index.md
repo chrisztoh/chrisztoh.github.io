@@ -28,7 +28,7 @@ Or: The process that created this page can be used to show off your whole midter
 
 ---
 
-_**[Eventual team project](https://donbowen.github.io/teamproject/)**_
+_**[Finance Data Science Project](https://sammiopalewski.github.io/FinalProjectWebsite/)**_
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
